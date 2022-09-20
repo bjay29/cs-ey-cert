@@ -5,8 +5,8 @@ class Database
     // DB Params
     private $host = 'localhost';
     private $db_name = 'db';
-    private $username = 'root';
-    private $password = '';
+    private $username = 'deploy';
+    private $password = 'jHQ3RUWZlZ';
     private $conn;
 
     // DB Connect
